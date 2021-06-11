@@ -9,7 +9,7 @@ Files of Python3 Tutorial which is done by Kanishk Pachauri.
 Install my-project with git
 
 ```bash 
-  git clone https://github.com/kanishk-dev-sudo/py_learn
+  git clone https://github.com/kanishk-dev-sudo/python_learn
 ```
     
 ## Authors
