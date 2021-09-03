@@ -1,3 +1,6 @@
+#Datatyoe in Python
+
+
 #int data type
 
 data_int = 12
