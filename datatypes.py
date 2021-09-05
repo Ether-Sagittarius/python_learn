@@ -15,6 +15,11 @@ print(type(data_float))
 data_string = "Hello, world!"
 print(type(data_string))
 
+# Boolean data type
+data_bool = True
+data_bool2 = False
+print(type(data_bool))
+print(type(data_bool2))
 # list data type
 
 data_list = ['Hello, world! ',1,1.2]
